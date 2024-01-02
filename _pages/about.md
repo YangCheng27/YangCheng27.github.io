@@ -14,3 +14,9 @@ Experience
 ======
 <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/6abc3851-a24b-4d14-a14c-335a67bc3c1a" width="50" height="50" alt="nctu" title="Image Title"/> National Chiao-Tung University.
 
+
+<p>
+  <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/6abc3851-a24b-4d14-a14c-335a67bc3c1a" width="60" height="60" alt="graduation cap" title="Graduation Cap"/>
+  <span style="font-weight:bold;">MS in Biomedical Engineering, 2017</span><br>
+  <span style="color:gray; font-size:smaller;">National Chiao-Tung University</span>
+</p>
