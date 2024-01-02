@@ -30,3 +30,11 @@ Experience
     <td style="color:gray; font-size:smaller;">National Chiao-Tung University</td>
   </tr>
 </table>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/6abc3851-a24b-4d14-a14c-335a67bc3c1a" width="60" height="60" alt="graduation cap" title="Graduation Cap"/>
+  <div style="margin-left: 10px;">
+    <div style="font-weight:bold;">MS in Biomedical Engineering, 2017</div>
+    <div style="color:gray; font-size:smaller;">National Chiao-Tung University</div>
+  </div>
+</div>
