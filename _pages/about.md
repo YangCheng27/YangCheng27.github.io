@@ -45,11 +45,9 @@ Experience
   </div>
 </div>
 
-<div style="height: 20px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
+<div style="height: 60px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
   <!-- 這裡是空白行 -->
 </div>
-
-
 
 Education
 ======
@@ -84,6 +82,7 @@ Education
     <div style="color:gray; font-size:smaller;">National Chiao-Tung University, Hsinchu, Taiwan</div>
   </div>
 </div>
-<div style="height: 20px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
+
+<div style="height: 60px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
   <!-- 這裡是空白行 -->
 </div>
