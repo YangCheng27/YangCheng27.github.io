@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Cheng / EECS MEng @UMich"
+title                    : "Yang Cheng / 成光揚"
 title_separator          : "-"
 name                     : &name "Yang (Kuang-Yang) Cheng"
 description              : &description "personal description"
