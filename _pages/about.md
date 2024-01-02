@@ -12,4 +12,5 @@ I consider myself an engineer who bridged data analytics and hands-on work. Befo
 
 Experience
 ======
-![nctu](https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/6abc3851-a24b-4d14-a14c-335a67bc3c1a) National Chiao-Tung University.
+<img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/6abc3851-a24b-4d14-a14c-335a67bc3c1a" width="50" height="50" alt="nctu" title="Image Title"/> National Chiao-Tung University.
+
