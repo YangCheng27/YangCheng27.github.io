@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yang Cheng 成光揚"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
