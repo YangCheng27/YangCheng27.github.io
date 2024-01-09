@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<img width="260" alt="me" src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/eed75f49-8240-4466-b020-ce9c6dc3ff7f">
 I consider myself an engineer who bridged data analytics and hands-on work. Before attending the University of Michigan, I had worked for 4 years as a yield data engineer at Taiwan Semiconductor Manufacturing Company (tsmc) where I was trained to be an engineer who is able to drive technology insights and implement solutions.
 
 Expected graduation: December 2024
