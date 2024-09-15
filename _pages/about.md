@@ -16,13 +16,13 @@ Experience
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/25cfaede-2abd-4fc6-bc45-18061e0e6007" width="40" height="40" alt="tesla" title="Graduation Cap"/>
   <div style="margin-left: 10px;">
-    <div style="font-weight:bold;">Data Scientist Intern, May 2024 - Aug 2024</div>
+    <div style="font-weight:bold;">Data Science Intern, May 2024 - Aug 2024</div>
     <div style="color:gray; font-size:smaller;">Tesla, Fremont, CA</div>
   </div>
 </div>
 
-<div style="height: 20px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
-  <!-- 這裡是空白行 -->
+<div style="height: 20px;"> 
+  
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -33,8 +33,8 @@ Experience
   </div>
 </div>
 
-<div style="height: 20px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
-  <!-- 這裡是空白行 -->
+<div style="height: 20px;">
+
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -45,8 +45,8 @@ Experience
   </div>
 </div>
 
-<div style="height: 35px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
-  <!-- 這裡是空白行 -->
+<div style="height: 35px;">
+
 </div>
 
 Education
@@ -59,8 +59,8 @@ Education
   </div>
 </div>
 
-<div style="height: 20px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
-  <!-- 這裡是空白行 -->
+<div style="height: 20px;">
+
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -71,8 +71,8 @@ Education
   </div>
 </div>
 
-<div style="height: 20px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
-  <!-- 這裡是空白行 -->
+<div style="height: 20px;">
+
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -83,6 +83,6 @@ Education
   </div>
 </div>
 
-<div style="height: 40px;"> <!-- 調整這裡的高度來控制空白行的大小 -->
-  <!-- 這裡是空白行 -->
+<div style="height: 40px;">
+
 </div>
