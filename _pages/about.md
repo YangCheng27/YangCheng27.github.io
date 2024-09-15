@@ -28,7 +28,7 @@ Experience
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/c1e47006-a58a-4c9c-a61d-8e4e2d7e8c78" width="40" height="40" alt="hri" title="Graduation Cap"/>
   <div style="margin-left: 10px;">
-    <div style="font-weight:bold;">Graduate Student Researcher, Jan 2024 - Dec 2024</div>
+    <div style="font-weight:bold;">Engineering Intern, Jan 2024 - Present</div>
     <div style="color:gray; font-size:smaller;">Honda Research Institute USA, Ann Arbor, MI</div>
   </div>
 </div>
