@@ -54,7 +54,7 @@ Education
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/d49c6f57-2be8-4ed5-a16c-1a737bbc5d88" width="40" height="40" alt="umich" title="Graduation Cap"/>
   <div style="margin-left: 10px;">
-    <div style="font-weight:bold;">MEng in ECE specilazing in ML and DS, Aug 2023 - Dec 2024</div>
+    <div style="font-weight:bold;">MEng in ECE specilazing in CV and ML, Aug 2023 - Dec 2024</div>
     <div style="color:gray; font-size:smaller;">University of Michigan, Ann Arbor, MI</div>
   </div>
 </div>
@@ -78,7 +78,7 @@ Education
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/YangCheng27/YangCheng27.github.io/assets/56757171/6abc3851-a24b-4d14-a14c-335a67bc3c1a" width="40" height="40" alt="nctu" title="Graduation Cap"/>
   <div style="margin-left: 10px;">
-    <div style="font-weight:bold;">MS in Biomedical Engineering specilazing in Bioelectronics, Sep 2015 - Aug 2017</div>
+    <div style="font-weight:bold;">MS in Electrical Engineering specilazing in Nanoelectronics, Sep 2015 - Aug 2017</div>
     <div style="color:gray; font-size:smaller;">National Chiao-Tung University, Hsinchu, Taiwan</div>
   </div>
 </div>
